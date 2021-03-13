@@ -1,0 +1,17 @@
+{
+  "name": "icons-package-template",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "delete": "delete images"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "fs-extra": "^9.1.0",
+    "svgo": "^2.2.2",
+    "yargs": "^16.2.0"
+  }
+}
